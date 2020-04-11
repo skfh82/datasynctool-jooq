@@ -1,0 +1,8 @@
+{
+  "http.server.port": 8080,
+  "client.id": "3MVG9CEn_O3jvv0wT5QzJ74h7.LbEhNXqCjCIDVHsUSR4Hqjyhf4wWKMPrD3uFTKRb36c0iLXPXHM7Aj1IXJH",
+  "client.secret": "645156E6C5246057E2A4B3A9007905D1758CB65910D6FC9808C4298ABCB97CBE",
+  "client.callback_login_url": "http://localhost:8080/callback",
+  "client.callback_addsite_url": "http://localhost:8080/secure/addsite/callback",
+  "vertxweb.environment": "dev"
+}
